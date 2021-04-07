@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\bizma\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\bizma\\.nuget\\packages"
+    ]
+  }
+}
